@@ -1,14 +1,11 @@
-# COWdot
-making a little top down game to learn some Godot 
+# Making a game in GODOT 
+- I mean it's not really a game, more like a watch a youtube tutorial
 
-it's not really a game. 
+## Features I would like to add
 
-More like I followed a tutorial.
+- save the cow from their unstoppable seizure
+- make the "roof" layer disappear when the player is underneath
+- add an action button when near a cow
+- load a new scene when the player goes off map
 
 
-#What i would like to implemente, add :
-        1. save the cow from seizure
-        2. make the "roof" layout disappear when the player is underneath
-        3. add an actyion button when you're near a cow
-        4. Load a new scene when the player goes outside the map
-        
