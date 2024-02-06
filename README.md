@@ -1,5 +1,5 @@
 # Making a game in GODOT 
-- I mean it's not really a game, more like a watch a youtube tutorial
+- I mean it's not really a game, more like I watch a youtube tutorial
 
 ## Features I would like to add
 
